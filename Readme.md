@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🏫 ¡Hola! Soy Manuel Lora</h1>
+<h1 align="center">👨‍🏫 ¡Hola! Soy Manu Lora</h1>
 
 <p align="center">
   👨‍💻 Profesor de Informática  
